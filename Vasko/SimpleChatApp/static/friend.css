@@ -1,0 +1,150 @@
+body{
+    background-color: gray;
+}
+
+#container{
+    border: 3px solid cornflowerblue;
+    background-color: #f1f1f1;
+    width: 1889px;
+    height: 980px;
+
+}
+
+#header{
+    background-color: cornflowerblue;
+    color: white;
+    padding-left: 5px;
+    margin-top: -34px;
+    font-size: 25px;
+
+}
+#messages{
+    padding: 10px 10px;
+    width: 80vw;
+    float: left;
+    margin-top: -40px;
+
+}
+#messages>h2{
+    border: 3px solid cornflowerblue;
+    font-size: 30px;
+    color: white;
+    background-color: cornflowerblue;
+    border-radius: 4px;
+    padding-left: 5px;
+}
+#messages>p{
+    font-size: 20px;
+}
+
+#send{
+    margin-top: -15px;
+    width: 60vw;
+    clear: both;
+    bottom: auto;
+    left: 10px;
+    position: absolute;
+    text-align: center;
+
+}
+
+.options{
+    margin-top: -5px;
+    width: 5vw;
+    float: right;
+    margin-right: 100px;
+}
+#mess {
+    clear: both;
+}
+
+input{
+    margin-top: 35px;
+    margin-left: -15px;
+    text-align-all: left;
+    padding-right: 40vw;
+    padding-bottom:5px;
+    padding-top: 5px;
+    font-size: 20px;
+    color: cornflowerblue;
+    border:2px solid cornflowerblue;
+    border-radius: 4px;
+
+}
+p{
+    padding-left: 5px;
+    color: cornflowerblue;
+    font-size: 23px;
+}
+
+button{
+    border:2px solid cornflowerblue;
+    border-radius: 4px;
+    background-color: cornflowerblue;
+    color: #f1f0f0;
+    padding: 5px 20px;
+    font-size: 20px;
+
+}
+
+#m{
+    height: 750px;
+    overflow: auto;
+    border:3px solid cornflowerblue;
+    border-radius: 4px;
+    scrollbar-arrow-color: cornflowerblue;
+}
+
+.dropbtn {
+  background-color: #f1f0f0;
+  color: cornflowerblue;
+
+  font-size: 16px;
+  border:3px solid cornflowerblue;
+  border-radius: 4px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-bottom: -10px;
+}
+
+.options {
+  position: relative;
+  display: inline-block;
+}
+
+.content {
+  display: none;
+  position: absolute;
+  min-width: 160px;
+  z-index: 1;
+}
+
+.content a {
+  color: cornflowerblue;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  background-color: white;
+  border: 3px solid cornflowerblue;
+  border-radius: 4px;
+  font-size: 19px;
+  margin-top: 3px;
+}
+
+.content button{
+    border:3px solid cornflowerblue;
+    border-radius: 4px;
+    background-color: white;
+    color: cornflowerblue;
+    padding: 13px 16px;
+    font-size: 18px;
+}
+
+
+.content a:hover {background-color: cornflowerblue; color: white}
+
+.options:hover .content {display: block;}
+
+.options:hover .dropbtn {background-color: cornflowerblue;color: white}
+
+.content button:hover{background-color: cornflowerblue; color: white;}

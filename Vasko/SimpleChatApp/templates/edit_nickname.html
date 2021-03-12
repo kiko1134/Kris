@@ -1,0 +1,27 @@
+<html>
+    <head>
+        <title>Sing Up</title>
+        <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='edit_nickname.css') }}">
+    </head>
+
+    <body>
+        <div id="container">
+            <div id="header">
+                <h1>Edit Nicknames</h1>
+            </div>
+            <form action="/friends/{{friendship.friendship_id}}/edit" method="post">
+                <div id="SingUp">
+                    <br>
+                    <label>Nickname for {{friendship.sender_name}}:</label>
+                    <input name="nickname_1" value="{{friendship.nickname_1}}"><br><br>
+                    <label>Nickname for {{friendship.friend_name}}:</label>
+                    <input name="nickname_2" value="{{friendship.nickname_2}}">
+                </div>
+                <div id="but">
+                    <br><br><button type="submit" >Submit</button>
+                </div>
+            </form>
+        </div>
+
+    </body>
+</html>

@@ -1,0 +1,64 @@
+body{
+    background-color: gray;
+}
+#header{
+    background-color: cornflowerblue;
+    color: white;
+    padding-left: 10px;
+}
+#container{
+    background-color: white;
+    width: 1580px;
+    height: 980px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+button{
+    padding: 5px 20px;
+    color: cornflowerblue;
+    border: 3px solid cornflowerblue;
+    border-radius: 4px;
+    background-color: white;
+    font-size: 20px;
+}
+
+input{
+    border:3px solid cornflowerblue;
+    border-radius: 4px;
+    margin-left: 1000px;
+    margin-top: 25px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: cornflowerblue;
+    font-size: 20px;
+}
+a{
+    border:1px solid cornflowerblue;
+    border-radius: 4px;
+    padding-left: 10px;
+    padding-right: 1080px;
+    margin-right: 1px;
+    text-decoration: none;
+    color: cornflowerblue;
+    font-size: 25px;
+}
+#search{
+
+    padding-left: 10px;
+}
+#friends {
+    margin-top: 5px;
+    padding-left: 10px;
+    padding-right: 73px;
+    overflow: auto;
+    height: 800px;
+    float: left;
+    border-top: 5px solid cornflowerblue;
+}
+#search>h1{
+    float: left;
+    color: cornflowerblue;
+}
+
+button:hover{background-color: cornflowerblue; color: white;}

@@ -1,0 +1,35 @@
+<html>
+    <head>
+        <title>All Friends</title>
+        <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='friends.css') }}">
+    </head>
+
+    <body>
+        <div id="container">
+            <div id="header">
+                <h1> All Friends </h1>
+            </div>
+            {% for message in get_flashed_messages() %}
+                <p>{{ message }}</p>
+            {% endfor %}
+            <div id="all">
+                <div id="search">
+                    <h1>Friends</h1>
+                    <form action=/friends/new method="post">
+                        <input type="text" name="friend_name" placeholder="Add friend">
+                        <button type="Add Friend">Add</button>
+                        <button type="button" onclick="window.location='/'">Home</button>
+                    </form>
+                </div>
+                <div id="friends">
+                    {% for friend in friendships %}
+                    <br>
+                    <a href="/friends/{{ friend.friendship_id}}"><b>Friend: </b>{{ friend.friend_name }} (added by {{ friend.sender_name }})</a>
+                    <!--<a href="/friends/{{ friend.friendship_id}}"><b> Friend:</b> {{ friend.sender_name }} who added {{ friend.friend_name }}</a>-->
+                    <br/>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

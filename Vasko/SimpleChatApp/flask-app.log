@@ -1,0 +1,792 @@
+[01-19 07:30:34] p26246 {/home/anton/school/SoftwareEngineering/Basic-Chat-Application/app.py:28} INFO - Logging is set up.
+[01-19 07:30:56] p26246 {/home/anton/school/SoftwareEngineering/Basic-Chat-Application/app.py:82} ERROR - User: fdasf is not registered.
+[01-19 07:31:23] p26246 {/home/anton/school/SoftwareEngineering/Basic-Chat-Application/app.py:80} DEBUG - Friend with name: Antonio was just added by Vasil.
+[01-19 07:31:30] p26246 {/home/anton/school/SoftwareEngineering/Basic-Chat-Application/app.py:125} DEBUG - Vasil just sent a new message.
+[01-19 07:31:35] p26246 {/home/anton/school/SoftwareEngineering/Basic-Chat-Application/app.py:125} DEBUG - Vasil just sent a new message.
+[01-19 07:31:44] p26246 {/home/anton/school/SoftwareEngineering/Basic-Chat-Application/app.py:114} DEBUG - The nickname for Antonio was edited.
+[01-19 07:31:50] p26246 {/home/anton/school/SoftwareEngineering/Basic-Chat-Application/app.py:92} DEBUG - Friend with name: Antonio was just deleted from Vasil's list of friends.
+[01-19 07:31:53] p26246 {/home/anton/school/SoftwareEngineering/Basic-Chat-Application/app.py:80} DEBUG - Friend with name: Antonio was just added by Vasil.
+[01-19 07:31:57] p26246 {/home/anton/school/SoftwareEngineering/Basic-Chat-Application/app.py:125} DEBUG - Vasil just sent a new message.
+[01-19 07:33:46] p27262 {/home/anton/school/SoftwareEngineering/Basic-Chat-Application/app.py:28} INFO - Logging is set up.
+[01-19 07:34:10] p27262 {/home/anton/school/SoftwareEngineering/Basic-Chat-Application/app.py:80} DEBUG - Friend with name: Vasil was just added by Stoyan.
+[01-19 07:34:14] p27262 {/home/anton/school/SoftwareEngineering/Basic-Chat-Application/app.py:80} DEBUG - Friend with name: Antonio was just added by Stoyan.
+[01-19 07:34:19] p27262 {/home/anton/school/SoftwareEngineering/Basic-Chat-Application/app.py:82} ERROR - User: GKPPec is not registered.
+[01-19 07:34:23] p27262 {/home/anton/school/SoftwareEngineering/Basic-Chat-Application/app.py:125} DEBUG - Stoyan just sent a new message.
+[01-19 07:35:11] p27622 {/home/anton/school/SoftwareEngineering/Basic-Chat-Application/app.py:28} INFO - Logging is set up.
+[01-19 07:35:32] p27622 {/home/anton/school/SoftwareEngineering/Basic-Chat-Application/app.py:80} DEBUG - Friend with name: Vasil was just added by Daniel.
+[01-19 07:35:34] p27622 {/home/anton/school/SoftwareEngineering/Basic-Chat-Application/app.py:80} DEBUG - Friend with name: Antonio was just added by Daniel.
+[01-19 07:35:40] p27622 {/home/anton/school/SoftwareEngineering/Basic-Chat-Application/app.py:114} DEBUG - The nickname for Antonio was edited.
+[01-19 08:13:21] p9500 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-19 08:13:46] p17448 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-19 08:14:30] p17448 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:80} DEBUG - Friend with name: Vasil was just added by Alex.
+[01-19 08:39:57] p6736 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-19 08:40:49] p6736 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - Vasil just sent a new message.
+[01-19 08:41:15] p6736 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - Vasil just sent a new message.
+[01-19 08:42:26] p17608 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-19 08:44:47] p17012 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-19 08:48:04] p19648 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-19 08:48:07] p19320 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-19 08:48:23] p15412 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-19 08:48:25] p21592 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-19 08:48:39] p3404 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-19 08:48:51] p14884 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-19 08:49:02] p16556 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-19 08:49:12] p17356 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-19 08:49:38] p11672 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-19 09:02:57] p11672 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - Admin just sent a new message.
+[01-19 09:02:57] p11672 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - Admin just sent a new message.
+[01-19 09:02:58] p11672 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - Admin just sent a new message.
+[01-19 09:02:59] p11672 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - Admin just sent a new message.
+[01-19 09:03:00] p11672 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - Admin just sent a new message.
+[01-19 09:03:00] p11672 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - Admin just sent a new message.
+[01-19 09:03:01] p11672 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - Admin just sent a new message.
+[01-19 09:03:01] p11672 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - Admin just sent a new message.
+[01-19 09:03:02] p11672 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - Admin just sent a new message.
+[01-19 09:03:02] p11672 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - Admin just sent a new message.
+[01-19 09:03:03] p11672 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - Admin just sent a new message.
+[01-19 09:03:04] p11672 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - Admin just sent a new message.
+[01-19 09:03:04] p11672 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - Admin just sent a new message.
+[01-19 09:03:05] p11672 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - Admin just sent a new message.
+[01-19 09:03:06] p11672 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - Admin just sent a new message.
+[01-19 09:03:06] p11672 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - Admin just sent a new message.
+[01-19 09:03:07] p11672 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - Admin just sent a new message.
+[01-19 09:03:08] p11672 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - Admin just sent a new message.
+[01-19 09:03:09] p11672 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - Admin just sent a new message.
+[01-19 09:03:09] p11672 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - Admin just sent a new message.
+[01-19 09:03:10] p11672 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - Admin just sent a new message.
+[01-19 09:03:11] p11672 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - Admin just sent a new message.
+[01-19 09:03:12] p11672 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - Admin just sent a new message.
+[01-19 09:03:13] p11672 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - Admin just sent a new message.
+[01-19 09:03:15] p11672 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - Admin just sent a new message.
+[01-19 09:03:16] p11672 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - Admin just sent a new message.
+[01-19 09:03:17] p11672 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - Admin just sent a new message.
+[01-19 09:03:18] p11672 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - Admin just sent a new message.
+[01-19 09:03:19] p11672 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - Admin just sent a new message.
+[01-19 09:03:20] p11672 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - Admin just sent a new message.
+[01-19 09:03:20] p11672 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - Admin just sent a new message.
+[01-19 09:03:21] p11672 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - Admin just sent a new message.
+[01-19 09:03:23] p11672 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - Admin just sent a new message.
+[01-20 15:07:23] p10008 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-20 15:08:57] p10008 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:80} DEBUG - Friend with name: Vasil was just added by Dani.
+[01-20 15:09:04] p10008 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:80} DEBUG - Friend with name: Antonio was just added by Dani.
+[01-20 15:09:29] p10008 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:114} DEBUG - The nickname for Vasil was edited.
+[01-20 15:09:35] p10008 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - Dani just sent a new message.
+[01-20 15:09:59] p10008 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - Dani just sent a new message.
+[01-20 15:09:59] p10008 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - Dani just sent a new message.
+[01-20 15:10:00] p10008 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - Dani just sent a new message.
+[01-20 15:10:01] p10008 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - Dani just sent a new message.
+[01-20 15:10:27] p10008 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:92} DEBUG - Friend with name: Antonio was just deleted from Dani's list of friends.
+[01-20 15:10:30] p10008 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:92} DEBUG - Friend with name: Vasil was just deleted from Dani's list of friends.
+[01-20 19:48:05] p20764 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-20 20:34:54] p17276 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-20 20:57:18] p17276 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - Vasil just sent a new message.
+[01-20 20:57:22] p17276 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - Vasil just sent a new message.
+[01-20 20:57:23] p17276 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - Vasil just sent a new message.
+[01-20 20:57:24] p17276 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - Vasil just sent a new message.
+[01-20 20:57:25] p17276 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - Vasil just sent a new message.
+[01-20 20:59:40] p17276 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:80} DEBUG - Friend with name:  was just added by Vasil.
+[01-20 20:59:41] p17276 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:80} DEBUG - Friend with name:  was just added by Vasil.
+[01-20 20:59:41] p17276 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:80} DEBUG - Friend with name:  was just added by Vasil.
+[01-20 20:59:41] p17276 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:80} DEBUG - Friend with name:  was just added by Vasil.
+[01-20 20:59:41] p17276 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:80} DEBUG - Friend with name:  was just added by Vasil.
+[01-20 20:59:42] p17276 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:80} DEBUG - Friend with name:  was just added by Vasil.
+[01-20 20:59:42] p17276 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:80} DEBUG - Friend with name:  was just added by Vasil.
+[01-20 20:59:42] p17276 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:80} DEBUG - Friend with name:  was just added by Vasil.
+[01-20 20:59:42] p17276 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:80} DEBUG - Friend with name:  was just added by Vasil.
+[01-20 20:59:43] p17276 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:80} DEBUG - Friend with name:  was just added by Vasil.
+[01-20 20:59:43] p17276 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:80} DEBUG - Friend with name:  was just added by Vasil.
+[01-20 20:59:55] p17276 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:92} DEBUG - Friend with name: Vasil was just deleted from Vasil's list of friends.
+[01-20 20:59:57] p17276 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:92} DEBUG - Friend with name: Vasil was just deleted from Vasil's list of friends.
+[01-20 20:59:59] p17276 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:92} DEBUG - Friend with name: Vasil was just deleted from Vasil's list of friends.
+[01-20 21:00:01] p17276 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:92} DEBUG - Friend with name:  was just deleted from Vasil's list of friends.
+[01-20 21:00:03] p17276 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:92} DEBUG - Friend with name:  was just deleted from Vasil's list of friends.
+[01-20 21:00:04] p17276 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:92} DEBUG - Friend with name:  was just deleted from Vasil's list of friends.
+[01-20 21:00:06] p17276 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:92} DEBUG - Friend with name:  was just deleted from Vasil's list of friends.
+[01-20 21:00:08] p17276 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:92} DEBUG - Friend with name:  was just deleted from Vasil's list of friends.
+[01-20 21:00:09] p17276 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:92} DEBUG - Friend with name:  was just deleted from Vasil's list of friends.
+[01-20 21:00:11] p17276 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:92} DEBUG - Friend with name:  was just deleted from Vasil's list of friends.
+[01-20 21:00:14] p17276 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:92} DEBUG - Friend with name:  was just deleted from Vasil's list of friends.
+[01-20 21:00:15] p17276 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:92} DEBUG - Friend with name:  was just deleted from Vasil's list of friends.
+[01-20 21:00:17] p17276 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:92} DEBUG - Friend with name:  was just deleted from Vasil's list of friends.
+[01-20 21:00:21] p17276 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:92} DEBUG - Friend with name:  was just deleted from Vasil's list of friends.
+[01-20 21:00:23] p17276 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:92} DEBUG - Friend with name:  was just deleted from Vasil's list of friends.
+[01-20 21:00:25] p17276 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:92} DEBUG - Friend with name:  was just deleted from Vasil's list of friends.
+[01-20 21:00:26] p17276 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:92} DEBUG - Friend with name:  was just deleted from Vasil's list of friends.
+[01-20 21:00:28] p17276 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:92} DEBUG - Friend with name:  was just deleted from Vasil's list of friends.
+[01-20 21:00:30] p17276 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:92} DEBUG - Friend with name:  was just deleted from Vasil's list of friends.
+[01-20 21:00:32] p17276 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:92} DEBUG - Friend with name:  was just deleted from Vasil's list of friends.
+[01-20 21:00:33] p17276 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:92} DEBUG - Friend with name:  was just deleted from Vasil's list of friends.
+[01-20 21:00:36] p17276 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:92} DEBUG - Friend with name:  was just deleted from Vasil's list of friends.
+[01-20 21:00:37] p17276 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:92} DEBUG - Friend with name:  was just deleted from Vasil's list of friends.
+[01-20 21:00:39] p17276 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:92} DEBUG - Friend with name: Vasil was just deleted from Vasil's list of friends.
+[01-20 21:00:42] p17276 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:92} DEBUG - Friend with name: Vasil was just deleted from Vasil's list of friends.
+[01-20 21:00:43] p17276 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:92} DEBUG - Friend with name: Vasil was just deleted from Vasil's list of friends.
+[01-20 21:00:45] p17276 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:92} DEBUG - Friend with name:  was just deleted from Vasil's list of friends.
+[01-20 21:00:46] p17276 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:92} DEBUG - Friend with name:  was just deleted from Vasil's list of friends.
+[01-20 21:00:50] p17276 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:92} DEBUG - Friend with name:  was just deleted from Vasil's list of friends.
+[01-20 21:00:52] p17276 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:92} DEBUG - Friend with name:  was just deleted from Vasil's list of friends.
+[01-20 21:00:55] p17276 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:92} DEBUG - Friend with name:  was just deleted from Vasil's list of friends.
+[01-20 21:00:56] p17276 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:92} DEBUG - Friend with name:  was just deleted from Vasil's list of friends.
+[01-20 21:00:58] p17276 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:92} DEBUG - Friend with name:  was just deleted from Vasil's list of friends.
+[01-20 21:00:59] p17276 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:92} DEBUG - Friend with name:  was just deleted from Vasil's list of friends.
+[01-20 21:01:01] p17276 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:92} DEBUG - Friend with name:  was just deleted from Vasil's list of friends.
+[01-20 21:01:03] p17276 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:92} DEBUG - Friend with name:  was just deleted from Vasil's list of friends.
+[01-20 21:01:05] p17276 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:92} DEBUG - Friend with name:  was just deleted from Vasil's list of friends.
+[01-20 21:01:08] p17276 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:92} DEBUG - Friend with name:  was just deleted from Vasil's list of friends.
+[01-20 21:01:09] p17276 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:92} DEBUG - Friend with name:  was just deleted from Vasil's list of friends.
+[01-20 21:01:12] p17276 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:92} DEBUG - Friend with name:  was just deleted from Vasil's list of friends.
+[01-20 21:01:13] p17276 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:92} DEBUG - Friend with name:  was just deleted from Vasil's list of friends.
+[01-20 21:01:15] p17276 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:92} DEBUG - Friend with name:  was just deleted from Vasil's list of friends.
+[01-20 21:01:17] p17276 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:92} DEBUG - Friend with name:  was just deleted from Vasil's list of friends.
+[01-20 21:01:19] p17276 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:92} DEBUG - Friend with name:  was just deleted from Vasil's list of friends.
+[01-20 21:01:20] p17276 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:92} DEBUG - Friend with name:  was just deleted from Vasil's list of friends.
+[01-20 21:01:22] p17276 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:92} DEBUG - Friend with name:  was just deleted from Vasil's list of friends.
+[01-20 21:06:47] p17276 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:92} DEBUG - Friend with name:  was just deleted from Vasil's list of friends.
+[01-20 21:06:49] p17276 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:92} DEBUG - Friend with name:  was just deleted from Vasil's list of friends.
+[01-20 21:06:51] p17276 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:92} DEBUG - Friend with name:  was just deleted from Vasil's list of friends.
+[01-20 21:06:54] p17276 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:92} DEBUG - Friend with name:  was just deleted from Vasil's list of friends.
+[01-20 21:10:42] p2344 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-20 21:12:01] p2344 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:80} DEBUG - Friend with name: Antonio was just added by sasho.
+[01-20 21:12:41] p2344 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:80} DEBUG - Friend with name: Vasil was just added by sasho.
+[01-20 21:17:54] p2344 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - sasho just sent a new message.
+[01-20 21:22:27] p2344 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:114} DEBUG - The nickname for Antonio was edited.
+[01-20 21:24:01] p2344 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - sasho just sent a new message.
+[01-20 21:24:01] p2344 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - sasho just sent a new message.
+[01-20 21:24:01] p2344 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - sasho just sent a new message.
+[01-20 21:24:01] p2344 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - sasho just sent a new message.
+[01-20 21:24:01] p2344 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - sasho just sent a new message.
+[01-20 21:24:02] p2344 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - sasho just sent a new message.
+[01-20 21:24:02] p2344 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - sasho just sent a new message.
+[01-20 21:24:02] p2344 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - sasho just sent a new message.
+[01-20 21:24:02] p2344 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - sasho just sent a new message.
+[01-20 21:24:02] p2344 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - sasho just sent a new message.
+[01-20 21:24:03] p2344 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - sasho just sent a new message.
+[01-20 21:24:03] p2344 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - sasho just sent a new message.
+[01-20 21:24:03] p2344 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - sasho just sent a new message.
+[01-20 21:24:03] p2344 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - sasho just sent a new message.
+[01-20 21:24:03] p2344 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - sasho just sent a new message.
+[01-20 21:24:04] p2344 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - sasho just sent a new message.
+[01-20 21:24:04] p2344 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - sasho just sent a new message.
+[01-20 21:24:04] p2344 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - sasho just sent a new message.
+[01-20 21:24:04] p2344 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - sasho just sent a new message.
+[01-20 21:24:04] p2344 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - sasho just sent a new message.
+[01-20 21:24:05] p2344 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - sasho just sent a new message.
+[01-20 21:24:05] p2344 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - sasho just sent a new message.
+[01-20 21:24:05] p2344 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - sasho just sent a new message.
+[01-20 21:24:05] p2344 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - sasho just sent a new message.
+[01-20 21:24:06] p2344 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - sasho just sent a new message.
+[01-20 21:24:06] p2344 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - sasho just sent a new message.
+[01-20 21:24:06] p2344 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - sasho just sent a new message.
+[01-20 21:24:06] p2344 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - sasho just sent a new message.
+[01-20 21:25:18] p2344 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - sasho just sent a new message.
+[01-20 21:25:20] p2344 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - sasho just sent a new message.
+[01-20 21:25:27] p2344 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:92} DEBUG - Friend with name: Antonio was just deleted from sasho's list of friends.
+[01-20 21:32:08] p19528 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-20 21:33:23] p21440 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-20 21:33:58] p19008 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-20 21:34:00] p4900 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-20 21:35:07] p11040 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-20 21:35:21] p17708 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-20 21:35:27] p4628 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-20 21:35:51] p4628 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - Admin just sent a new message.
+[01-20 21:35:51] p4628 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - Admin just sent a new message.
+[01-20 21:35:52] p4628 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - Admin just sent a new message.
+[01-20 21:35:52] p4628 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - Admin just sent a new message.
+[01-20 21:35:53] p4628 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - Admin just sent a new message.
+[01-20 21:35:53] p4628 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - Admin just sent a new message.
+[01-20 21:35:53] p4628 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - Admin just sent a new message.
+[01-20 21:35:53] p4628 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - Admin just sent a new message.
+[01-20 21:35:53] p4628 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - Admin just sent a new message.
+[01-20 21:35:54] p4628 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - Admin just sent a new message.
+[01-20 21:35:54] p4628 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - Admin just sent a new message.
+[01-20 21:35:54] p4628 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - Admin just sent a new message.
+[01-20 21:35:54] p4628 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - Admin just sent a new message.
+[01-20 21:35:55] p4628 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - Admin just sent a new message.
+[01-20 21:35:55] p4628 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - Admin just sent a new message.
+[01-20 21:35:55] p4628 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - Admin just sent a new message.
+[01-20 21:35:55] p4628 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - Admin just sent a new message.
+[01-20 21:35:55] p4628 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - Admin just sent a new message.
+[01-20 21:35:56] p4628 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - Admin just sent a new message.
+[01-20 21:35:56] p4628 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - Admin just sent a new message.
+[01-20 21:35:57] p4628 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - Admin just sent a new message.
+[01-20 21:35:57] p4628 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - Admin just sent a new message.
+[01-20 21:35:57] p4628 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - Admin just sent a new message.
+[01-20 21:36:41] p4628 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:92} DEBUG - Friend with name: Vasil was just deleted from Admin's list of friends.
+[01-20 21:36:43] p4628 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:80} DEBUG - Friend with name:  was just added by sasho.
+[01-20 21:36:50] p19808 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-20 21:36:59] p4040 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-20 21:37:00] p4040 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - Admin just sent a new message.
+[01-20 21:37:01] p4040 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - Admin just sent a new message.
+[01-20 21:37:01] p4040 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - Admin just sent a new message.
+[01-20 21:37:02] p4040 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - Admin just sent a new message.
+[01-20 21:37:02] p4040 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - Admin just sent a new message.
+[01-20 21:37:02] p4040 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - Admin just sent a new message.
+[01-20 21:37:44] p18388 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-20 21:37:45] p13480 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-20 21:37:52] p13480 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - Admin just sent a new message.
+[01-20 21:37:53] p13480 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - Admin just sent a new message.
+[01-20 21:37:56] p13480 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - Admin just sent a new message.
+[01-20 21:38:48] p21284 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-20 21:38:54] p15996 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-20 21:39:07] p15996 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - Admin just sent a new message.
+[01-20 21:39:08] p15996 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - Admin just sent a new message.
+[01-20 21:39:08] p15996 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - Admin just sent a new message.
+[01-20 21:39:09] p15996 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - Admin just sent a new message.
+[01-20 21:39:49] p2688 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-20 21:39:50] p15984 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-20 21:39:54] p15984 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - Admin just sent a new message.
+[01-20 21:39:55] p15984 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - Admin just sent a new message.
+[01-20 21:39:56] p15984 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - Admin just sent a new message.
+[01-20 21:40:42] p964 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-20 21:41:12] p12748 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-20 21:42:18] p17748 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-20 21:42:19] p19464 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-20 21:42:29] p19464 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - Admin just sent a new message.
+[01-20 21:42:29] p19464 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - Admin just sent a new message.
+[01-20 21:42:30] p19464 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - Admin just sent a new message.
+[01-20 21:42:30] p19464 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - Admin just sent a new message.
+[01-20 21:42:58] p14760 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-20 21:43:06] p14760 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:125} DEBUG - Admin just sent a new message.
+[01-20 21:45:00] p4184 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-20 21:47:18] p17676 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-20 21:47:31] p17676 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:92} DEBUG - Friend with name:  was just deleted from Admin's list of friends.
+[01-20 21:47:33] p17676 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:80} DEBUG - Friend with name:  was just added by sasho.
+[01-20 21:47:33] p17676 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:80} DEBUG - Friend with name:  was just added by sasho.
+[01-20 21:47:34] p17676 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:80} DEBUG - Friend with name:  was just added by sasho.
+[01-20 21:47:34] p17676 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:80} DEBUG - Friend with name:  was just added by sasho.
+[01-20 21:47:34] p17676 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:80} DEBUG - Friend with name:  was just added by sasho.
+[01-20 21:47:39] p17676 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:80} DEBUG - Friend with name:  was just added by sasho.
+[01-20 21:47:39] p17676 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:80} DEBUG - Friend with name:  was just added by sasho.
+[01-20 21:47:40] p17676 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:80} DEBUG - Friend with name:  was just added by sasho.
+[01-20 21:47:40] p17676 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:80} DEBUG - Friend with name:  was just added by sasho.
+[01-20 21:47:40] p17676 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:80} DEBUG - Friend with name:  was just added by sasho.
+[01-20 21:47:40] p17676 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:80} DEBUG - Friend with name:  was just added by sasho.
+[01-20 21:47:40] p17676 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:80} DEBUG - Friend with name:  was just added by sasho.
+[01-20 21:47:41] p17676 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:80} DEBUG - Friend with name:  was just added by sasho.
+[01-20 21:47:41] p17676 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:80} DEBUG - Friend with name:  was just added by sasho.
+[01-20 21:47:41] p17676 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:80} DEBUG - Friend with name:  was just added by sasho.
+[01-20 21:47:42] p17676 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:80} DEBUG - Friend with name:  was just added by sasho.
+[01-20 21:47:42] p17676 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:80} DEBUG - Friend with name:  was just added by sasho.
+[01-20 21:47:42] p17676 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:80} DEBUG - Friend with name:  was just added by sasho.
+[01-20 21:47:42] p17676 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:80} DEBUG - Friend with name:  was just added by sasho.
+[01-20 21:47:42] p17676 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:80} DEBUG - Friend with name:  was just added by sasho.
+[01-20 21:47:43] p17676 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:80} DEBUG - Friend with name:  was just added by sasho.
+[01-20 21:47:43] p17676 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:80} DEBUG - Friend with name:  was just added by sasho.
+[01-20 21:47:43] p17676 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:80} DEBUG - Friend with name:  was just added by sasho.
+[01-20 21:47:43] p17676 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:80} DEBUG - Friend with name:  was just added by sasho.
+[01-20 21:47:43] p17676 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:80} DEBUG - Friend with name:  was just added by sasho.
+[01-20 21:47:44] p17676 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:80} DEBUG - Friend with name:  was just added by sasho.
+[01-20 21:47:44] p17676 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:80} DEBUG - Friend with name:  was just added by sasho.
+[01-20 21:47:44] p17676 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:80} DEBUG - Friend with name:  was just added by sasho.
+[01-20 21:47:44] p17676 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:80} DEBUG - Friend with name:  was just added by sasho.
+[01-20 21:47:45] p17676 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:80} DEBUG - Friend with name:  was just added by sasho.
+[01-20 21:47:45] p17676 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:80} DEBUG - Friend with name:  was just added by sasho.
+[01-20 21:47:45] p17676 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:80} DEBUG - Friend with name:  was just added by sasho.
+[01-20 21:47:46] p17676 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:80} DEBUG - Friend with name:  was just added by sasho.
+[01-20 21:47:46] p17676 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:80} DEBUG - Friend with name:  was just added by sasho.
+[01-20 21:47:46] p17676 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:80} DEBUG - Friend with name:  was just added by sasho.
+[01-20 21:47:46] p17676 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:80} DEBUG - Friend with name:  was just added by sasho.
+[01-20 21:47:46] p17676 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:80} DEBUG - Friend with name:  was just added by sasho.
+[01-20 21:47:47] p17676 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:80} DEBUG - Friend with name:  was just added by sasho.
+[01-20 21:47:47] p17676 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:80} DEBUG - Friend with name:  was just added by sasho.
+[01-20 21:47:47] p17676 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:80} DEBUG - Friend with name:  was just added by sasho.
+[01-20 21:47:47] p17676 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:80} DEBUG - Friend with name:  was just added by sasho.
+[01-20 21:47:47] p17676 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:80} DEBUG - Friend with name:  was just added by sasho.
+[01-20 21:47:48] p17676 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:80} DEBUG - Friend with name:  was just added by sasho.
+[01-20 21:47:48] p17676 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:80} DEBUG - Friend with name:  was just added by sasho.
+[01-20 21:47:48] p17676 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:80} DEBUG - Friend with name:  was just added by sasho.
+[01-20 21:47:48] p17676 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:80} DEBUG - Friend with name:  was just added by sasho.
+[01-20 21:47:48] p17676 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:80} DEBUG - Friend with name:  was just added by sasho.
+[01-20 21:47:49] p17676 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:80} DEBUG - Friend with name:  was just added by sasho.
+[01-20 21:47:49] p17676 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:80} DEBUG - Friend with name:  was just added by sasho.
+[01-20 21:48:00] p17676 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:92} DEBUG - Friend with name:  was just deleted from sasho's list of friends.
+[01-20 21:48:02] p17676 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:92} DEBUG - Friend with name:  was just deleted from sasho's list of friends.
+[01-20 21:48:04] p17676 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:92} DEBUG - Friend with name:  was just deleted from sasho's list of friends.
+[01-20 21:48:06] p17676 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:92} DEBUG - Friend with name:  was just deleted from sasho's list of friends.
+[01-20 21:50:27] p5496 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-20 21:50:40] p11192 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-20 21:51:28] p11192 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:80} DEBUG - Friend with name:  was just added by sasho.
+[01-20 21:51:28] p11192 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:80} DEBUG - Friend with name:  was just added by sasho.
+[01-20 21:51:29] p11192 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:80} DEBUG - Friend with name:  was just added by sasho.
+[01-20 21:51:32] p18580 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-20 21:51:34] p18580 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:80} DEBUG - Friend with name:  was just added by sasho.
+[01-20 21:51:43] p22056 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-20 21:52:16] p18996 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-20 21:52:27] p18996 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:92} DEBUG - Friend with name:  was just deleted from sasho's list of friends.
+[01-20 21:52:28] p18996 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:80} DEBUG - Friend with name:  was just added by sasho.
+[01-20 21:52:30] p18996 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:80} DEBUG - Friend with name:  was just added by sasho.
+[01-20 21:52:31] p18996 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:80} DEBUG - Friend with name:  was just added by sasho.
+[01-20 21:53:17] p17856 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-20 21:53:18] p19716 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-20 21:53:35] p22488 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-20 21:53:54] p22488 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:92} DEBUG - Friend with name:  was just deleted from sasho's list of friends.
+[01-20 21:54:02] p12112 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-20 21:54:12] p19828 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-20 21:54:53] p18456 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-20 21:55:04] p18456 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:80} DEBUG - Friend with name:  was just added by sasho.
+[01-20 21:55:34] p18456 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:92} DEBUG - Friend with name:  was just deleted from sasho's list of friends.
+[01-20 21:55:37] p18456 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:80} DEBUG - Friend with name: Antonio was just added by sasho.
+[01-20 21:56:48] p21004 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-20 21:56:52] p21004 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:93} DEBUG - Friend with name: Antonio was just deleted from Admin's list of friends.
+[01-20 21:57:22] p20524 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-20 21:57:54] p17816 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-20 21:57:57] p15780 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-20 21:58:41] p15780 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:81} DEBUG - Friend with name: Vasil was just added by Vasil.
+[01-20 21:59:10] p15780 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:126} DEBUG - Vasil just sent a new message.
+[01-20 22:00:01] p21608 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-20 22:00:05] p21608 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:126} DEBUG - Admin just sent a new message.
+[01-20 22:00:07] p21608 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:126} DEBUG - Admin just sent a new message.
+[01-20 22:00:10] p21608 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:126} DEBUG - Admin just sent a new message.
+[01-20 22:00:13] p7004 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-20 22:00:14] p7004 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:126} DEBUG - Admin just sent a new message.
+[01-20 22:00:27] p17712 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-20 22:00:35] p17712 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:126} DEBUG - Vasil just sent a new message.
+[01-20 22:03:24] p22144 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-20 22:03:27] p22144 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:127} DEBUG - Admin just sent a new message.
+[01-20 22:04:11] p10584 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-20 22:04:18] p10584 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:127} DEBUG - Admin just sent a new message.
+[01-20 22:04:31] p10584 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:93} DEBUG - Friend with name: Vasil was just deleted from Admin's list of friends.
+[01-20 22:04:39] p10584 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:81} DEBUG - Friend with name: Vasil was just added by Vasil.
+[01-20 22:06:41] p20056 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-20 22:07:52] p17696 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-20 22:08:13] p17696 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:115} DEBUG - The nickname for Vasil was edited.
+[01-20 22:08:34] p17696 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:93} DEBUG - Friend with name: Vasil was just deleted from Admin's list of friends.
+[01-20 22:09:05] p17696 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:83} ERROR - User: Antonio is not registered.
+[01-20 22:09:08] p17696 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:81} DEBUG - Friend with name: Vasil was just added by Vasil.
+[01-20 22:09:18] p17696 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:127} DEBUG - Vasil just sent a new message.
+[01-20 22:09:38] p17696 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:93} DEBUG - Friend with name: Vasil was just deleted from Vasil's list of friends.
+[01-20 22:11:58] p17952 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-20 22:12:46] p17952 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\venv\lib\site-packages\flask\app.py:1891} ERROR - Exception on /friends/new [POST]
+Traceback (most recent call last):
+  File "C:\Users\Vasil\PycharmProjects\SimpleChatApp\venv\lib\site-packages\flask\app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Vasil\PycharmProjects\SimpleChatApp\venv\lib\site-packages\flask\app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Vasil\PycharmProjects\SimpleChatApp\venv\lib\site-packages\flask\app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\Vasil\PycharmProjects\SimpleChatApp\venv\lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "C:\Users\Vasil\PycharmProjects\SimpleChatApp\venv\lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Vasil\PycharmProjects\SimpleChatApp\venv\lib\site-packages\flask\app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py", line 80, in new_friend
+    new_friendship = Friendship(None, user.username, name, None, None).create()
+AttributeError: 'NoneType' object has no attribute 'username'
+[01-20 22:12:56] p1520 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-20 22:12:56] p1520 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\venv\lib\site-packages\flask\app.py:1891} ERROR - Exception on /friends/new [POST]
+Traceback (most recent call last):
+  File "C:\Users\Vasil\PycharmProjects\SimpleChatApp\venv\lib\site-packages\flask\app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Vasil\PycharmProjects\SimpleChatApp\venv\lib\site-packages\flask\app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Vasil\PycharmProjects\SimpleChatApp\venv\lib\site-packages\flask\app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\Vasil\PycharmProjects\SimpleChatApp\venv\lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "C:\Users\Vasil\PycharmProjects\SimpleChatApp\venv\lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Vasil\PycharmProjects\SimpleChatApp\venv\lib\site-packages\flask\app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py", line 80, in new_friend
+    new_friendship = Friendship(None, user.username, name, None, None).create()
+AttributeError: 'NoneType' object has no attribute 'username'
+[01-20 22:13:05] p1520 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\venv\lib\site-packages\flask\app.py:1891} ERROR - Exception on /friends/new [POST]
+Traceback (most recent call last):
+  File "C:\Users\Vasil\PycharmProjects\SimpleChatApp\venv\lib\site-packages\flask\app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Vasil\PycharmProjects\SimpleChatApp\venv\lib\site-packages\flask\app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Vasil\PycharmProjects\SimpleChatApp\venv\lib\site-packages\flask\app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\Vasil\PycharmProjects\SimpleChatApp\venv\lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "C:\Users\Vasil\PycharmProjects\SimpleChatApp\venv\lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Vasil\PycharmProjects\SimpleChatApp\venv\lib\site-packages\flask\app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py", line 80, in new_friend
+    new_friendship = Friendship(None, user.username, name, None, None).create()
+AttributeError: 'NoneType' object has no attribute 'username'
+[01-20 22:13:09] p1520 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\venv\lib\site-packages\flask\app.py:1891} ERROR - Exception on /friends/new [POST]
+Traceback (most recent call last):
+  File "C:\Users\Vasil\PycharmProjects\SimpleChatApp\venv\lib\site-packages\flask\app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Vasil\PycharmProjects\SimpleChatApp\venv\lib\site-packages\flask\app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Vasil\PycharmProjects\SimpleChatApp\venv\lib\site-packages\flask\app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\Vasil\PycharmProjects\SimpleChatApp\venv\lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "C:\Users\Vasil\PycharmProjects\SimpleChatApp\venv\lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Vasil\PycharmProjects\SimpleChatApp\venv\lib\site-packages\flask\app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py", line 80, in new_friend
+    new_friendship = Friendship(None, user.username, name, None, None).create()
+AttributeError: 'NoneType' object has no attribute 'username'
+[01-20 22:13:38] p1520 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\venv\lib\site-packages\flask\app.py:1891} ERROR - Exception on /register [POST]
+Traceback (most recent call last):
+  File "C:\Users\Vasil\PycharmProjects\SimpleChatApp\venv\lib\site-packages\flask\app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Vasil\PycharmProjects\SimpleChatApp\venv\lib\site-packages\flask\app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Vasil\PycharmProjects\SimpleChatApp\venv\lib\site-packages\flask\app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\Vasil\PycharmProjects\SimpleChatApp\venv\lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "C:\Users\Vasil\PycharmProjects\SimpleChatApp\venv\lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Vasil\PycharmProjects\SimpleChatApp\venv\lib\site-packages\flask\app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py", line 61, in verify
+    u = User(*values).create()
+  File "C:\Users\Vasil\PycharmProjects\SimpleChatApp\user.py", line 15, in create
+    db.execute('''
+sqlite3.IntegrityError: UNIQUE constraint failed: Users.name
+[01-20 22:13:55] p12784 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-20 22:14:24] p12784 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:81} DEBUG - Friend with name: Vasil was just added by Vasil.
+[01-20 22:14:31] p12784 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:127} DEBUG - Vasil just sent a new message.
+[01-20 22:14:36] p12784 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:127} DEBUG - Vasil just sent a new message.
+[01-20 22:14:43] p12784 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:127} DEBUG - Vasil just sent a new message.
+[01-20 22:14:45] p12784 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:127} DEBUG - Vasil just sent a new message.
+[01-20 22:14:48] p12784 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:127} DEBUG - Vasil just sent a new message.
+[01-20 22:14:51] p12784 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:127} DEBUG - Vasil just sent a new message.
+[01-20 22:14:52] p12784 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:127} DEBUG - Vasil just sent a new message.
+[01-20 22:14:54] p12784 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:127} DEBUG - Vasil just sent a new message.
+[01-20 22:14:58] p12784 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:127} DEBUG - Vasil just sent a new message.
+[01-20 22:15:03] p12784 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:127} DEBUG - Vasil just sent a new message.
+[01-20 22:15:07] p12784 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:127} DEBUG - Vasil just sent a new message.
+[01-20 22:15:09] p12784 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:127} DEBUG - Vasil just sent a new message.
+[01-20 22:15:13] p12784 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:127} DEBUG - Vasil just sent a new message.
+[01-20 22:15:17] p12784 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:127} DEBUG - Vasil just sent a new message.
+[01-20 22:15:19] p12784 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:127} DEBUG - Vasil just sent a new message.
+[01-20 22:15:22] p12784 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:127} DEBUG - Vasil just sent a new message.
+[01-20 22:15:24] p12784 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:127} DEBUG - Vasil just sent a new message.
+[01-20 22:15:25] p12784 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:127} DEBUG - Vasil just sent a new message.
+[01-20 22:15:27] p12784 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:127} DEBUG - Vasil just sent a new message.
+[01-20 22:15:28] p12784 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:127} DEBUG - Vasil just sent a new message.
+[01-20 22:15:30] p12784 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:127} DEBUG - Vasil just sent a new message.
+[01-20 22:15:31] p12784 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:127} DEBUG - Vasil just sent a new message.
+[01-20 22:15:34] p12784 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:127} DEBUG - Vasil just sent a new message.
+[01-20 22:15:36] p12784 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:127} DEBUG - Vasil just sent a new message.
+[01-20 22:15:38] p12784 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:127} DEBUG - Vasil just sent a new message.
+[01-20 22:15:42] p12784 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:127} DEBUG - Vasil just sent a new message.
+[01-20 22:15:48] p12784 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:127} DEBUG - Vasil just sent a new message.
+[01-20 22:16:38] p18100 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-20 22:16:59] p22264 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-20 22:17:11] p22264 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:93} DEBUG - Friend with name: Vasil was just deleted from Admin's list of friends.
+[01-20 22:30:09] p19812 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-20 22:30:18] p19056 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-20 22:37:01] p19056 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:83} ERROR - User: Antonio is not registered.
+[01-20 22:37:04] p19056 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:81} DEBUG - Friend with name: Vasil was just added by Vasil.
+[01-20 22:37:08] p19056 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:81} DEBUG - Friend with name: Vasil was just added by Vasil.
+[01-21 08:06:20] p11548 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-21 08:10:57] p12764 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-21 08:11:16] p2720 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-21 08:14:25] p12616 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-21 08:14:35] p2744 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-21 08:14:45] p2852 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-21 08:15:40] p13844 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-21 08:16:09] p13156 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-21 08:17:25] p5264 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-21 08:21:37] p15816 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-21 08:32:42] p1964 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-21 08:32:43] p11100 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-21 08:44:10] p11844 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-21 08:44:17] p11380 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-21 08:46:02] p13916 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-21 08:47:14] p14936 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-21 08:47:51] p7984 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-21 08:48:24] p4580 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-21 08:51:00] p13688 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-21 08:53:11] p3952 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-21 08:59:35] p3952 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:81} DEBUG - Friend with name: Antonio was just added by Antonio.
+[01-21 08:59:50] p3952 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:81} DEBUG - Friend with name: Vasil was just added by Antonio.
+[01-21 09:00:49] p3952 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:127} DEBUG - Antonio just sent a new message.
+[01-21 09:01:28] p3952 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:127} DEBUG - Antonio just sent a new message.
+[01-21 09:01:49] p3952 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:93} DEBUG - Friend with name: Vasil was just deleted from Antonio's list of friends.
+[01-21 09:02:29] p3952 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\venv\lib\site-packages\flask\app.py:1891} ERROR - Exception on /register [POST]
+Traceback (most recent call last):
+  File "C:\Users\Vasil\PycharmProjects\SimpleChatApp\venv\lib\site-packages\flask\app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Vasil\PycharmProjects\SimpleChatApp\venv\lib\site-packages\flask\app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Vasil\PycharmProjects\SimpleChatApp\venv\lib\site-packages\flask\app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\Vasil\PycharmProjects\SimpleChatApp\venv\lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "C:\Users\Vasil\PycharmProjects\SimpleChatApp\venv\lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Vasil\PycharmProjects\SimpleChatApp\venv\lib\site-packages\flask\app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py", line 61, in verify
+    u = User(*values).create()
+  File "C:\Users\Vasil\PycharmProjects\SimpleChatApp\user.py", line 15, in create
+    db.execute('''
+sqlite3.IntegrityError: UNIQUE constraint failed: Users.name
+[01-21 09:15:41] p3488 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-21 09:18:02] p14660 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-21 09:19:50] p14660 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:81} DEBUG - Friend with name: Antonio was just added by Antonio.
+[01-21 09:20:34] p10156 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-21 09:20:39] p3484 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-21 09:20:49] p15760 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-21 09:21:32] p8140 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-21 09:21:39] p8140 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:81} DEBUG - Friend with name: Vasil was just added by Antonio.
+[01-21 09:22:19] p8140 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:83} ERROR - User: Stoyan is not registered.
+[01-21 09:22:23] p8140 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:81} DEBUG - Friend with name: Vasil was just added by Antonio.
+[01-21 09:22:39] p8140 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:81} DEBUG - Friend with name: Stoyan was just added by Antonio.
+[01-21 09:23:16] p8140 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:81} DEBUG - Friend with name: vpaligorov@gmail.com was just added by Antonio.
+[01-21 09:54:31] p8140 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:81} DEBUG - Friend with name: Antonio was just added by Antonio.
+[01-21 09:57:52] p8140 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:81} DEBUG - Friend with name: Vasko123 was just added by Antonio.
+[01-21 09:58:23] p8140 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:93} DEBUG - Friend with name: vpaligorov@gmail.com was just deleted from Antonio's list of friends.
+[01-21 10:03:36] p8836 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-21 10:04:10] p8260 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-21 10:18:37] p13884 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-21 10:19:13] p13884 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:81} DEBUG - Friend with name: Stoyan was just added by Antonio.
+[01-21 10:22:38] p7624 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-21 10:23:01] p3364 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-21 10:24:20] p16164 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-21 10:26:55] p16164 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:81} DEBUG - Friend with name: Antonio was just added by Antonio.
+[01-21 10:34:44] p16164 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:81} DEBUG - Friend with name: Vasil was just added by Antonio.
+[01-21 10:34:46] p16164 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:81} DEBUG - Friend with name: Stoyan was just added by Antonio.
+[01-21 10:34:48] p16164 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:81} DEBUG - Friend with name: Vasil was just added by Antonio.
+[01-21 10:34:50] p16164 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:81} DEBUG - Friend with name: Vasil was just added by Antonio.
+[01-21 10:34:52] p16164 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:81} DEBUG - Friend with name: Vasil was just added by Antonio.
+[01-21 10:34:53] p16164 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:81} DEBUG - Friend with name: Vasil was just added by Antonio.
+[01-21 10:34:55] p16164 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:81} DEBUG - Friend with name: Vasil was just added by Antonio.
+[01-21 10:34:57] p16164 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:81} DEBUG - Friend with name: Vasil was just added by Antonio.
+[01-21 10:34:59] p16164 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:81} DEBUG - Friend with name: Vasil was just added by Antonio.
+[01-21 10:35:01] p16164 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:81} DEBUG - Friend with name: Vasil was just added by Antonio.
+[01-21 10:37:00] p16164 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:93} DEBUG - Friend with name: Vasil was just deleted from Antonio's list of friends.
+[01-21 10:37:02] p16164 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:93} DEBUG - Friend with name: Vasil was just deleted from Antonio's list of friends.
+[01-21 10:37:04] p16164 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:93} DEBUG - Friend with name: Vasil was just deleted from Antonio's list of friends.
+[01-21 10:37:12] p16164 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:93} DEBUG - Friend with name: Vasil was just deleted from Antonio's list of friends.
+[01-21 10:37:14] p16164 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:93} DEBUG - Friend with name: Vasil was just deleted from Antonio's list of friends.
+[01-21 10:37:16] p16164 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:93} DEBUG - Friend with name: Vasil was just deleted from Antonio's list of friends.
+[01-21 11:58:08] p9012 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-21 12:00:47] p9012 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:93} DEBUG - Friend with name: Stoyan was just deleted from Stoyan's list of friends.
+[01-21 12:01:06] p9012 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:115} DEBUG - The nickname for Stoyan was edited.
+[01-21 12:01:18] p9012 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:115} DEBUG - The nickname for Stoyan was edited.
+[01-21 12:01:20] p9012 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:93} DEBUG - Friend with name: Stoyan was just deleted from Stoyan's list of friends.
+[01-21 12:01:24] p9012 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:115} DEBUG - The nickname for Stoyan was edited.
+[01-21 12:01:29] p9012 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:115} DEBUG - The nickname for Stoyan was edited.
+[01-21 12:02:02] p9012 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:115} DEBUG - The nickname for Stoyan was edited.
+[01-21 12:02:25] p9012 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:93} DEBUG - Friend with name: Stoyan was just deleted from Stoyan's list of friends.
+[01-21 12:02:31] p9012 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:81} DEBUG - Friend with name: Antonio was just added by Stoyan.
+[01-21 12:02:35] p9012 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:81} DEBUG - Friend with name: Stoyan was just added by Stoyan.
+[01-21 12:02:45] p9012 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:81} DEBUG - Friend with name: Antonio was just added by Stoyan.
+[01-21 12:02:49] p9012 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:81} DEBUG - Friend with name: Stoyan was just added by Stoyan.
+[01-21 12:02:51] p9012 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:81} DEBUG - Friend with name: Vasil was just added by Stoyan.
+[01-21 12:16:08] p14020 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-21 12:16:10] p5540 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-21 12:16:48] p10336 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-21 12:22:08] p10336 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:93} DEBUG - Friend with name: Antonio was just deleted from Admin's list of friends.
+[01-21 13:31:19] p4468 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-21 13:38:48] p4468 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:93} DEBUG - Friend with name: Stoyan was just deleted from Admin's list of friends.
+[01-21 13:38:54] p4468 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:93} DEBUG - Friend with name: Antonio was just deleted from Stoyan's list of friends.
+[01-21 13:40:40] p7360 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-21 13:42:25] p11520 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-21 13:42:55] p7796 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-21 13:44:26] p3356 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-21 13:45:19] p5972 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-21 13:45:37] p5972 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:93} DEBUG - Friend with name: Vasil was just deleted from Admin's list of friends.
+[01-21 13:59:00] p9264 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-21 13:59:10] p9264 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:93} DEBUG - Friend with name: Stoyan was just deleted from Admin's list of friends.
+[01-21 13:59:13] p9264 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:81} DEBUG - Friend with name: Antonio was just added by Stoyan.
+[01-21 14:02:42] p3380 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-21 14:05:02] p7116 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-21 14:05:07] p13980 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-21 14:05:22] p3500 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-21 14:05:27] p3500 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:93} DEBUG - Friend with name: Antonio was just deleted from Admin's list of friends.
+[01-21 14:05:29] p3500 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:81} DEBUG - Friend with name: Antonio was just added by Stoyan.
+[01-21 14:06:04] p9780 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-21 14:06:06] p12492 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-21 14:06:53] p4556 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-21 14:14:09] p14116 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-21 14:21:37] p14116 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:127} DEBUG - Admin just sent a new message.
+[01-21 14:21:40] p14116 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:127} DEBUG - Admin just sent a new message.
+[01-21 14:21:42] p14116 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:127} DEBUG - Admin just sent a new message.
+[01-21 14:21:45] p14116 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:127} DEBUG - Admin just sent a new message.
+[01-21 14:21:47] p14116 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:127} DEBUG - Admin just sent a new message.
+[01-21 14:21:55] p14116 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:127} DEBUG - Admin just sent a new message.
+[01-21 14:21:58] p14116 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:127} DEBUG - Admin just sent a new message.
+[01-21 14:22:00] p14116 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:127} DEBUG - Admin just sent a new message.
+[01-21 14:22:03] p14116 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:127} DEBUG - Admin just sent a new message.
+[01-21 14:22:06] p14116 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:127} DEBUG - Admin just sent a new message.
+[01-21 14:22:08] p14116 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:127} DEBUG - Admin just sent a new message.
+[01-21 14:22:09] p14116 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:127} DEBUG - Admin just sent a new message.
+[01-21 14:23:12] p14116 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:127} DEBUG - Admin just sent a new message.
+[01-21 14:24:41] p14116 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:127} DEBUG - Admin just sent a new message.
+[01-21 14:24:49] p14116 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:127} DEBUG - Admin just sent a new message.
+[01-21 14:24:53] p14116 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:127} DEBUG - Admin just sent a new message.
+[01-21 14:24:56] p14116 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:127} DEBUG - Admin just sent a new message.
+[01-21 14:24:59] p14116 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:127} DEBUG - Admin just sent a new message.
+[01-21 14:25:06] p14116 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:127} DEBUG - Admin just sent a new message.
+[01-21 14:25:09] p14116 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:127} DEBUG - Admin just sent a new message.
+[01-21 14:25:12] p14116 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:127} DEBUG - Admin just sent a new message.
+[01-21 14:25:17] p14116 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:127} DEBUG - Admin just sent a new message.
+[01-21 14:25:19] p14116 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:127} DEBUG - Admin just sent a new message.
+[01-21 14:25:22] p14116 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:127} DEBUG - Admin just sent a new message.
+[01-21 14:25:27] p14116 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:127} DEBUG - Admin just sent a new message.
+[01-21 14:42:42] p5800 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-21 14:44:27] p5800 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:93} DEBUG - Friend with name: Vasil was just deleted from Admin's list of friends.
+[01-21 14:46:35] p5800 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:127} DEBUG - Vasil just sent a new message.
+[01-21 15:01:17] p7744 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-21 15:01:54] p13060 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-21 15:05:24] p3880 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-21 15:13:39] p6944 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-21 15:27:47] p6944 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:127} DEBUG - Admin just sent a new message.
+[01-21 15:51:09] p6944 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:127} DEBUG - Admin just sent a new message.
+[01-21 15:51:21] p6944 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:127} DEBUG - Admin just sent a new message.
+[01-21 15:56:08] p10132 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-21 15:58:45] p10132 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:115} DEBUG - The nickname for Vasil was edited.
+[01-21 16:12:36] p9712 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-21 16:14:26] p9712 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:81} DEBUG - Friend with name: Vasil was just added by Dani.
+[01-21 16:14:31] p9712 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:81} DEBUG - Friend with name: Stoyan was just added by Dani.
+[01-21 16:15:05] p9712 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:127} DEBUG - Dani just sent a new message.
+[01-21 16:16:14] p9712 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:115} DEBUG - The nickname for Vasil was edited.
+[01-21 16:16:25] p9712 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\venv\lib\site-packages\flask\app.py:1891} ERROR - Exception on /register [POST]
+Traceback (most recent call last):
+  File "C:\Users\Vasil\PycharmProjects\SimpleChatApp\venv\lib\site-packages\flask\app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Vasil\PycharmProjects\SimpleChatApp\venv\lib\site-packages\flask\app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Vasil\PycharmProjects\SimpleChatApp\venv\lib\site-packages\flask\app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\Vasil\PycharmProjects\SimpleChatApp\venv\lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "C:\Users\Vasil\PycharmProjects\SimpleChatApp\venv\lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Vasil\PycharmProjects\SimpleChatApp\venv\lib\site-packages\flask\app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py", line 61, in verify
+    u = User(*values).create()
+  File "C:\Users\Vasil\PycharmProjects\SimpleChatApp\user.py", line 15, in create
+    db.execute('''
+sqlite3.IntegrityError: UNIQUE constraint failed: Users.name
+[01-21 16:43:37] p9712 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:81} DEBUG - Friend with name: Antonio was just added by Dani.
+[01-21 16:43:41] p9712 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:81} DEBUG - Friend with name: Stoyan was just added by Dani.
+[01-21 17:48:57] p9712 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:115} DEBUG - The nickname for Vasil was edited.
+[01-21 17:50:37] p9712 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:115} DEBUG - The nickname for Vasil was edited.
+[01-21 18:04:23] p376 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-21 18:08:28] p376 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:115} DEBUG - The nickname for Vasil was edited.
+[01-21 18:14:42] p8304 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-21 18:14:53] p5456 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-21 18:16:05] p5456 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:81} DEBUG - Friend with name: Stoyan was just added by Toni.
+[01-21 18:16:10] p5456 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:81} DEBUG - Friend with name: Antonio was just added by Toni.
+[01-21 18:16:12] p5456 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:81} DEBUG - Friend with name: Antonio was just added by Toni.
+[01-21 18:16:13] p5456 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:81} DEBUG - Friend with name: Vasil was just added by Toni.
+[01-21 18:16:14] p5456 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:81} DEBUG - Friend with name: Vasil was just added by Toni.
+[01-21 18:16:20] p5456 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:81} DEBUG - Friend with name: Vasil was just added by Toni.
+[01-21 18:16:22] p5456 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:81} DEBUG - Friend with name: Vasil was just added by Toni.
+[01-21 18:16:23] p5456 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:81} DEBUG - Friend with name: Vasil was just added by Toni.
+[01-21 18:16:24] p5456 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:81} DEBUG - Friend with name: Vasil was just added by Toni.
+[01-21 18:16:26] p5456 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:81} DEBUG - Friend with name: Vasil was just added by Toni.
+[01-21 18:16:27] p5456 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:81} DEBUG - Friend with name: Vasil was just added by Toni.
+[01-21 18:16:28] p5456 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:81} DEBUG - Friend with name: Stoyan was just added by Toni.
+[01-21 18:16:29] p5456 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:81} DEBUG - Friend with name: Vasil was just added by Toni.
+[01-21 18:16:30] p5456 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:81} DEBUG - Friend with name: Vasil was just added by Toni.
+[01-21 18:16:35] p5456 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:81} DEBUG - Friend with name: Antonio was just added by Toni.
+[01-21 18:16:36] p5456 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:81} DEBUG - Friend with name: Antonio was just added by Toni.
+[01-21 18:16:37] p5456 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:81} DEBUG - Friend with name: Antonio was just added by Toni.
+[01-21 18:16:39] p5456 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:81} DEBUG - Friend with name: Vasil was just added by Toni.
+[01-21 18:16:40] p5456 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:81} DEBUG - Friend with name: Antonio was just added by Toni.
+[01-21 18:16:46] p5456 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:81} DEBUG - Friend with name: Antonio was just added by Toni.
+[01-21 18:17:18] p5456 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:127} DEBUG - Toni just sent a new message.
+[01-21 18:17:24] p5456 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:127} DEBUG - Toni just sent a new message.
+[01-21 18:17:27] p5456 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:127} DEBUG - Toni just sent a new message.
+[01-21 18:17:54] p5456 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:115} DEBUG - The nickname for Stoyan was edited.
+[01-21 18:17:58] p5456 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:115} DEBUG - The nickname for Stoyan was edited.
+[01-21 18:18:26] p5456 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:115} DEBUG - The nickname for Vasil was edited.
+[01-21 18:20:58] p5456 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:93} DEBUG - Friend with name: Stoyan was just deleted from Toni's list of friends.
+[01-21 18:21:15] p5456 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:93} DEBUG - Friend with name: Antonio was just deleted from Toni's list of friends.
+[01-21 18:21:19] p5456 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:93} DEBUG - Friend with name: Antonio was just deleted from Toni's list of friends.
+[01-21 18:41:22] p5456 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:115} DEBUG - The nickname for Vasil was edited.
+[01-21 18:41:38] p5456 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:115} DEBUG - The nickname for Vasil was edited.
+[01-21 20:33:16] p5456 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:115} DEBUG - The nickname for Vasil was edited.
+[01-21 20:33:19] p5456 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:93} DEBUG - Friend with name: Vasil was just deleted from Toni's list of friends.
+[01-21 20:37:48] p16204 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-21 20:38:28] p16204 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:115} DEBUG - The nickname for Vasil was edited.
+[01-21 20:46:13] p6976 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-21 20:47:55] p6976 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:81} DEBUG - Friend with name: Vasil was just added by Petya.
+[01-21 20:48:02] p6976 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:81} DEBUG - Friend with name: Antonio was just added by Petya.
+[01-21 20:48:26] p6976 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:127} DEBUG - Petya just sent a new message.
+[01-21 20:48:51] p6976 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:115} DEBUG - The nickname for Vasil was edited.
+[01-21 20:48:59] p6976 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:93} DEBUG - Friend with name: Vasil was just deleted from Petya's list of friends.
+[01-21 20:49:07] p6976 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:81} DEBUG - Friend with name: Vasil was just added by Petya.
+[01-21 20:49:15] p6976 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:127} DEBUG - Petya just sent a new message.
+[01-21 20:49:33] p10612 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-29 08:47:06] p20592 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-29 08:48:33] p20592 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:115} DEBUG - The nickname for Vasil was edited.
+[01-29 08:48:45] p20592 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:115} DEBUG - The nickname for Vasil was edited.
+[01-29 08:53:39] p18756 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-29 08:59:19] p15912 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-29 09:00:10] p12372 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-29 09:02:52] p22144 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[01-29 09:03:48] p22144 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:127} DEBUG - Admin just sent a new message.
+[01-29 09:03:59] p22144 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:93} DEBUG - Friend with name: Vasil was just deleted from Admin's list of friends.
+[01-29 09:04:04] p22144 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:81} DEBUG - Friend with name: Antonio was just added by Vasil.
+[01-29 09:07:11] p22144 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\venv\lib\site-packages\flask\app.py:1891} ERROR - Exception on /register [POST]
+Traceback (most recent call last):
+  File "C:\Users\Vasil\PycharmProjects\SimpleChatApp\venv\lib\site-packages\flask\app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Vasil\PycharmProjects\SimpleChatApp\venv\lib\site-packages\flask\app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Vasil\PycharmProjects\SimpleChatApp\venv\lib\site-packages\flask\app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\Vasil\PycharmProjects\SimpleChatApp\venv\lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "C:\Users\Vasil\PycharmProjects\SimpleChatApp\venv\lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Vasil\PycharmProjects\SimpleChatApp\venv\lib\site-packages\flask\app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py", line 61, in verify
+    u = User(*values).create()
+  File "C:\Users\Vasil\PycharmProjects\SimpleChatApp\user.py", line 15, in create
+    db.execute('''
+sqlite3.IntegrityError: UNIQUE constraint failed: Users.name
+[03-12 10:55:36] p2760 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[03-12 10:55:50] p4380 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[03-12 10:55:55] p1432 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:28} INFO - Logging is set up.
+[03-12 10:56:46] p1432 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\venv\lib\site-packages\flask\app.py:1891} ERROR - Exception on /register [POST]
+Traceback (most recent call last):
+  File "C:\Users\Vasil\PycharmProjects\SimpleChatApp\venv\lib\site-packages\flask\app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Vasil\PycharmProjects\SimpleChatApp\venv\lib\site-packages\flask\app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Vasil\PycharmProjects\SimpleChatApp\venv\lib\site-packages\flask\app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\Vasil\PycharmProjects\SimpleChatApp\venv\lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "C:\Users\Vasil\PycharmProjects\SimpleChatApp\venv\lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Vasil\PycharmProjects\SimpleChatApp\venv\lib\site-packages\flask\app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py", line 61, in verify
+    u = User(*values).create()
+  File "C:\Users\Vasil\PycharmProjects\SimpleChatApp\user.py", line 15, in create
+    db.execute('''
+sqlite3.IntegrityError: UNIQUE constraint failed: Users.name
+[03-12 10:56:54] p1432 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\venv\lib\site-packages\flask\app.py:1891} ERROR - Exception on /register [POST]
+Traceback (most recent call last):
+  File "C:\Users\Vasil\PycharmProjects\SimpleChatApp\venv\lib\site-packages\flask\app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Vasil\PycharmProjects\SimpleChatApp\venv\lib\site-packages\flask\app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Vasil\PycharmProjects\SimpleChatApp\venv\lib\site-packages\flask\app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\Vasil\PycharmProjects\SimpleChatApp\venv\lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "C:\Users\Vasil\PycharmProjects\SimpleChatApp\venv\lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Vasil\PycharmProjects\SimpleChatApp\venv\lib\site-packages\flask\app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py", line 61, in verify
+    u = User(*values).create()
+  File "C:\Users\Vasil\PycharmProjects\SimpleChatApp\user.py", line 15, in create
+    db.execute('''
+sqlite3.IntegrityError: UNIQUE constraint failed: Users.name
+[03-12 10:57:17] p1432 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:81} DEBUG - Friend with name: Stoyan was just added by Vasko.
+[03-12 10:58:33] p1432 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:81} DEBUG - Friend with name: Vasil was just added by Vasko.
+[03-12 11:01:52] p1432 {C:\Users\Vasil\PycharmProjects\SimpleChatApp\app.py:127} DEBUG - Vasko just sent a new message.
